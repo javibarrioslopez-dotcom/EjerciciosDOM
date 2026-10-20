@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<curso id="2DAM">
+    <profesor dni="12345678N">
+        <nombre>Alberto Perez</nombre>
+        <modulo>Acceso a datos</modulo>
+    </profesor>
+
+    <alumno dni="69852141T">
+        <nombre>Juan Ajenjo</nombre>
+        <practica1>30</practica1>
+        <practica2>70</practica2>
+        <examen>80</examen>
+        <final>85</final>
+    </alumno>
+
+    <alumno dni="569872454R">
+        <nombre>Maria Sanchez</nombre>
+        <practica1>80</practica1>
+        <practica2>90</practica2>
+        <examen>100</examen>
+        <final>40</final>
+    </alumno>
+
+    <alumno dni="3652478017H">
+        <nombre>Elisa Garicano</nombre>
+        <practica1>60</practica1>
+        <practica2>95</practica2>
+        <examen>50</examen>
+        <final>100</final>
+    </alumno>
+</curso>

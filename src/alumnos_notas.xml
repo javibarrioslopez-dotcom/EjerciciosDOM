@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Resultados>
+    <Alumno dni="69852141T">
+        <NotaMedia>72.5</NotaMedia>
+    </Alumno>
+    <Alumno dni="569872454R">
+        <NotaMedia>77.5</NotaMedia>
+    </Alumno>
+    <Alumno dni="3652478017H">
+        <NotaMedia>73.25</NotaMedia>
+    </Alumno>
+    <MediaTotal modulo="Acceso a datos">74.42</MediaTotal>
+</Resultados>

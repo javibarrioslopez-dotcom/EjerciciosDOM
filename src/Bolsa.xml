@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<Bolsa dia="5-7-2001" hora="11:34">
+  <Empresa indice="general">
+    <Nombre>General Motors</Nombre>
+    <Simbolo>GMO</Simbolo>
+    <Precio>28.875</Precio>
+  </Empresa>
+  <Empresa indice="tecno">
+    <Nombre>Adobe</Nombre>
+    <Simbolo>ADB</Simbolo>
+    <Precio>92.250</Precio>
+  </Empresa>
+  <Empresa indice="tecno">
+    <Nombre>Microsoft</Nombre>
+    <Simbolo>MSF</Simbolo>
+    <Precio>20.313</Precio>
+  </Empresa>
+  <Empresa indice="general">
+    <Nombre>Coca-Cola</Nombre>
+    <Simbolo>COC</Simbolo>
+    <Precio>38.895</Precio>
+  </Empresa>  
+  <Empresa indice="tecno">
+    <Nombre>Sun Microsystems</Nombre>
+    <Simbolo>SUN</Simbolo>
+    <Precio>45.119</Precio>
+  </Empresa>
+</Bolsa>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Bolsa dia="5-7-2001" hora="11:34">
+    <Empresa indice="general">
+        <Nombre>General Motors</Nombre>
+        <Simbolo>GMO</Simbolo>
+        <Precio>28.875</Precio>
+    </Empresa>
+    <Empresa indice="tecno">
+        <Nombre>Adobe</Nombre>
+        <Simbolo>ADB</Simbolo>
+        <Precio>92.250</Precio>
+    </Empresa>
+    <Empresa indice="tecno">
+        <Nombre>Microsoft</Nombre>
+        <Simbolo>MSF</Simbolo>
+        <Precio>25.9</Precio>
+    </Empresa>
+    <Empresa indice="tecno">
+        <Nombre>Sun Microsystems</Nombre>
+        <Simbolo>SUN</Simbolo>
+        <Precio>45.119</Precio>
+    </Empresa>
+    <Empresa indice="general">
+        <Nombre>Telefonica</Nombre>
+        <Simbolo>TLF</Simbolo>
+        <Precio>75.5</Precio>
+    </Empresa>
+    <Empresa indice="tecno">
+        <Nombre>Oracle</Nombre>
+        <Simbolo>ORC</Simbolo>
+        <Precio>109.75</Precio>
+    </Empresa>
+    <Empresa indice="general">
+        <Nombre>Inditex</Nombre>
+        <Simbolo>IND</Simbolo>
+        <Precio>330.0</Precio>
+    </Empresa>
+</Bolsa>

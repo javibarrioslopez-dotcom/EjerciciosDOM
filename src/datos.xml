@@ -1,0 +1,35 @@
+<?xml version="1.0" ?> 
+  <Operaciones> 
+    <Operacion id="A"> 
+       <Indice>General</Indice> 
+	   <Nombre>Telefonica</Nombre>
+       <Simbolo>TLF</Simbolo> 
+       <Precio>55.6</Precio> 
+    </Operacion> 
+	<Operacion id="B"> 
+       <Nombre>Coca-Cola</Nombre> 
+    </Operacion>
+	<Operacion id="A"> 
+       <Indice>tecno</Indice> 
+	   <Nombre>Oracle</Nombre>
+       <Simbolo>ORC</Simbolo> 
+       <Precio>109.75</Precio> 
+    </Operacion>
+	<Operacion id="M"> 
+       <Nombre>Microsoft</Nombre>
+       <Precio>25.9</Precio> 
+    </Operacion>
+	<Operacion id="A"> 
+       <Indice>General</Indice> 
+	   <Nombre>Inditex</Nombre>
+       <Simbolo>IND</Simbolo> 
+       <Precio>330</Precio> 
+	</Operacion>
+    <Operacion id="M"> 
+       <Nombre>Telefonica</Nombre>
+       <Precio>75.5</Precio> 
+    </Operacion> 
+	<Operacion id="B"> 
+       <Nombre>CorteIngles</Nombre> 
+    </Operacion>
+</Operaciones> 
